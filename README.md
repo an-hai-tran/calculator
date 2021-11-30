@@ -1,3 +1,9 @@
+# Calculator
+
+This project's main focus is to build the computation part of a calculator from scratch instead of using other intergrated libraries to make the calculator works.
+
+To run this app locally, clone the app from the repository through `git clone https://github.com/antran416/calculator`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
